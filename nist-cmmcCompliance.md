@@ -89,4 +89,4 @@ Compliance unlocks federal revenue streams, improves cyber insurance premiums, a
 
 By embedding NIST 800-171, leveraging the CAPA framework, and maintaining disciplined SSP and POAM practices, organizations not only safeguard CUI but transform compliance into a strategic advantage. This approach supports CMMC 2.0 certification and positions the business for operational excellence and long-term growth.
 
-*For advisory services and Zero Trust readiness assessments, visit [pwnsentinel.com](https://pwnsentinel.com).*
+*For advisory services and Zero Trust readiness assessments, visit [pwnsentinel.com](https://pwnsentinel.com/comp_mapping/).*

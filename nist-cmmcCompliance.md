@@ -7,19 +7,19 @@ Organizations handling Controlled Unclassified Information (CUI) must safeguard 
 ### Executive Role in Compliance Implementation
 Achieving NIST 800-171 and CMMC 2.0 compliance is not solely a technical challenge—it's a leadership priority. Executive stakeholders drive the success of compliance programs by aligning cybersecurity objectives with business strategy, allocating resources, and fostering a culture of continuous improvement.
 
-### For CEOs: Revenue Protection and Market Access
+### CEOs: Revenue Protection and Market Access
 - **Contract Eligibility**: DoD contracts worth $600+ billion demand compliance.
 - **Competitive Advantage**: Early compliance improves market positioning.
 - **Risk Mitigation**: Avoid costly breaches and fines.
 - **Brand Protection**: Show commitment to data protection and national security.
 
-### For CISOs: Security Posture Enhancement
+### CISOs: Security Posture Enhancement
 - **Blueprint for Security**: NIST 800-171 provides a structured framework.
 - **Measurable KPIs**: CMMC 2.0 validation supports defensible reporting.
 - **Resilience**: Embedded incident response capabilities.
 - **Ongoing Maturity**: Promotes iterative improvement cycles.
 
-### For CTOs/CIOs: Technology Strategy Alignment
+### CTOs/CIOs: Technology Strategy Alignment
 - **Modernization**: Drives updates to outdated systems.
 - **Integration**: Aligns security controls with digital transformation.
 - **Vendor Management**: Enables risk-based technology sourcing.
@@ -30,9 +30,9 @@ Achieving NIST 800-171 and CMMC 2.0 compliance is not solely a technical challen
 Effective compliance requires coordination between multiple stakeholders. While executives provide strategic direction, operational leaders and technical teams must execute control implementations, maintain documentation, and support audits. Key stakeholder groups include:
 
 - **Executive Leadership**: Establish governance, allocate resources, define risk appetite.
-- **IT & Security Teams**: Operationalize controls, manage risk, respond to threats.
+- **IT & Security Teams**: Operationalize controls, manage risk, enforce zero-trust in incident response. Continuous observability and montiroing are required for today's organizations.
 - **Compliance Officers**: Monitor adherence to NIST/CMMC controls and oversee audits.
-- **Third-Party Vendors**: Ensure service providers and technologies meet security standards.
+- **Third-Party Vendors**: Ensure service providers and technologies meet security standards like SOC 2.
 
 ## Understanding the Relationship Between NIST 800-171 and CMMC 2.0
 
